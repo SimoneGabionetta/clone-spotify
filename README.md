@@ -68,7 +68,7 @@ Once the application is opened in your web browser, you can explore the Spotify 
 
 
 ## Authors
-[Gabionetta]<img src="https://github.com/SimoneGabionetta.png" style= "border-radius:50%;width:80px"/>
+<img src="https://github.com/SimoneGabionetta.png" style= "border-radius:50%;width:80px"/>
 
 
 [Linkedin](https://www.linkedin.com/in/smgabionetta/)
